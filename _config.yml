@@ -20,10 +20,6 @@ plugins:
 
 # gems: [jekyll-paginate]
 
-# Google Analytics
-ga_track_id: 'UA-110549153-1'            # Format: UA-xxxxxx-xx
-ga_domain: Himself65
-
 # Progressive Web Apps
 chrome-tab-theme-color: "#000000"
 service-worker: true
