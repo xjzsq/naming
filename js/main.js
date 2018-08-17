@@ -88,7 +88,6 @@ const data = [
 const group_1 = [
 	"李昂",
 	"姚殿举",
-	"张帅青",
 	"曲新梦",
 	"王耀震",
 	"张宇",
@@ -189,7 +188,6 @@ const group_3 = [
 	"李兴泉",
 	"吴敬帅",
 	"王天宇",
-	"王琛",
 	"潘若怡",
 	"时永欣",
 	"郭士岩",
@@ -265,8 +263,7 @@ const groups = [data, group_1, group_2, group_3, group_4];
 // 永远不会被抽到名字
 const white_list = [
   "李昂",
-  "王雨涵",
-  "张帅青"
+  "王雨涵"
 ];
 
 let link_data = data;
