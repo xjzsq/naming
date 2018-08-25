@@ -259,7 +259,9 @@ const groups = [data, group_1, group_2, group_3, group_4];
 // 永远不会被抽到名字
 const white_list = [
   "李昂",
-  "王雨涵"
+  "王雨涵",
+  "姜齐"，
+  "李泽民"
 ];
 
 let link_data = data;
