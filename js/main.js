@@ -260,7 +260,7 @@ const groups = [data, group_1, group_2, group_3, group_4];
 const white_list = [
   "李昂",
   "王雨涵",
-  "姜齐"，
+  "姜齐",
   "李泽民"
 ];
 
